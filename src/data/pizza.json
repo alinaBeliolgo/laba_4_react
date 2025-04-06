@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "name": "Маргарита",
+      "description": "Соус, сыр, помидоры",
+      "price": 200,
+      "image": "https://img.freepik.com/premium-photo/tasty-italian-classic-original-pepperoni-pizza-top-view-isolated-white_650227-175.jpg?w=900",
+      "category": "Сырная",
+      "sizes": [30, 40, 50]
+    },
+    {
+      "id": 2,
+      "name": "Пепперони",
+      "description": "Соус, сыр, пепперони",
+      "price": 250,
+      "image": "https://img.freepik.com/free-photo/thinly-sliced-pepperoni-is-popular-pizza-topping-american-style-pizzerias-isolated-white-background-still-life_639032-229.jpg?t=st=1742750846~exp=1742754446~hmac=553cb4031c41a80e7ff3f4177c55c318989dd6522fd37871c0cb5a1b6a34f822&w=900",
+      "category": "Мясная",
+      "sizes": [30, 40, 50]
+    },
+    {
+      "id": 3,
+      "name": "Четыре сыра",
+      "description": "Моцарелла, горгонзола, пармезан, чеддер",
+      "price": 300,
+      "image": "https://img.freepik.com/premium-photo/delicious-pizza-with-sauce-melted-cheese-white-background_392895-536912.jpg?w=1060",
+      "category": "Сырная",
+      "sizes": [30, 40, 50]
+    },
+    {
+      "id": 4,
+      "name": "Сырная с грибами",
+      "description": "Сыр, шампиньоны, сливочный соус",
+      "price": 280,
+      "image": "https://img.freepik.com/free-photo/fresh-pizza-with-mushrooms-ham-cheese-white-background-copy-space-homemade-with-love-fast-delivery-recipe-menu-top-view_639032-297.jpg?t=st=1742750965~exp=1742754565~hmac=b6716eba70306f372d412bee1e6d27a793dfaa93f219f85cacecf352a3e2aea3&w=900",
+      "category": "Сырная",
+      "sizes": [30, 40, 50]
+    },
+    {
+      "id": 5,
+      "name": "Мясная Deluxe",
+      "description": "Говядина, бекон, пепперони, томатный соус",
+      "price": 350,
+      "image": "https://img.freepik.com/premium-photo/classic-thin-pizza-with-mozarella-ham-tomatoes-onion-white-background_555047-3400.jpg?w=996",
+      "category": "Мясная",
+      "sizes": [30, 40, 50]
+    },
+    {
+      "id": 6,
+      "name": "Охотничья",
+      "description": "Колбаски, ветчина, сыр, томатный соус",
+      "price": 320,
+      "image": "https://img.freepik.com/free-photo/delicious-italian-pizza-with-tomato-olives-pepperoni-mushrooms-top-view-isolated-white-background-still-life-copy-space_639032-299.jpg?t=st=1742754443~exp=1742758043~hmac=e70457892fe7bb80a8b683cedaa22236ac2ace0ffd6b456b3a16ed58a87b2493&w=900",
+      "category": "Мясная",
+      "sizes": [30, 40, 50]
+    }
+   ]

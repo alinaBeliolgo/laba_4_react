@@ -1,0 +1,24 @@
+.slider {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .slider img {
+    width: 100%;
+    max-width: 800px;
+    border-radius: 10px;
+  }
+  
+  .sliderButtons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+  
+  .sliderButton {
+    padding: 10px;
+    background-color: #ff9900;
+    border: none;
+    color: white;
+    cursor: pointer;
+  }
