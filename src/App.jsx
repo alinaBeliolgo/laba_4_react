@@ -7,7 +7,7 @@ import Footer from "./components/Footer";
 import PizzaList from "./components/PizzaList";
 import Slider from "./components/Slider";
 
-
+//импортируем страницы
 import ProductPage from "./pages/ProductPage";
 import CartPage from "./pages/CartPage";
 import AboutPage from "./pages/AboutPage";
@@ -20,6 +20,7 @@ function App() {
   return (
     <Router> 
       <Routes>
+      {/*маршрут*/}
       <Route path="/" element={<MainLayout />}>
           <Route index element={<PizzaList />} />
           <Route index element={<HomePage />} />
